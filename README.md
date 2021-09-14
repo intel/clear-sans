@@ -4,7 +4,7 @@ Clear Sans has been recognized as a versatile OpenType font for screen, print, a
 
 Clear Sans has minimized, unambiguous characters and slightly narrow proportions, making it ideal for UI design. Its strong, recognizable forms avoid distracting ambiguity, making it comfortable for reading short UI labels and long passages in both screen and print.
 
-This font supports a wide range of languages using Latin, Cyrillic, and Greek scripts. The font family includes medium, regular, thin, and liight weights with upright, italic, and bold styles.
+This font supports a wide range of languages using Latin, Cyrillic, and Greek scripts. The font family includes medium, regular, thin, and light weights with upright, italic, and bold styles.
 
 # Who It’s For
 
